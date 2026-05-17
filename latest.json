@@ -1,16 +1,16 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.3",
   "productName": "Sky Vanguard",
   "publisher": "Skytrace Studios",
-  "installerName": "Sky Vanguard-Setup-1.2.2.exe",
-  "installerPath": "artifacts/1.2.2/Sky Vanguard-Setup-1.2.2.exe",
-  "installerUrl": "https://github.com/iplayxbox65-ship-it/Sky-Vanguard-Releases/raw/main/artifacts/1.2.2/Sky%20Vanguard-Setup-1.2.2.exe",
-  "blockmapUrl": "https://github.com/iplayxbox65-ship-it/Sky-Vanguard-Releases/raw/main/artifacts/1.2.2/Sky%20Vanguard-Setup-1.2.2.exe.blockmap",
-  "sha256": "AD69D08FC993C4BCFF7E8217FCFE2CF9DDAFF46F116AC2D8BC4C49D5CE89031B",
-  "size": 171033593,
-  "publishedAt": "2026-05-14T23:56:28-07:00",
+  "installerName": "Sky Vanguard-Setup-1.2.3.exe",
+  "installerPath": "artifacts/1.2.3/Sky Vanguard-Setup-1.2.3.exe",
+  "installerUrl": "https://github.com/iplayxbox65-ship-it/Sky-Vanguard-Releases/raw/main/artifacts/1.2.3/Sky%20Vanguard-Setup-1.2.3.exe",
+  "blockmapUrl": "https://github.com/iplayxbox65-ship-it/Sky-Vanguard-Releases/raw/main/artifacts/1.2.3/Sky%20Vanguard-Setup-1.2.3.exe.blockmap",
+  "sha256": "C3C16BC971FACAE3AC7C31D046FBDC22992CF1526340419887D41507F4F1D534",
+  "size": 171137465,
+  "publishedAt": "2026-05-17T06:11:28-07:00",
   "notes": [
-    "Official Skytrace Studios Windows release.",
-    "Updated installer and publisher details."
+    "Skytrace Studios branding is now included throughout the desktop build.",
+    "Updated menu, splash, about, and release presentation while keeping Sky Vanguard as the primary identity."
   ]
 }
