@@ -1,5 +1,7 @@
 {
   "version": "1.2.2",
+  "productName": "Sky Vanguard",
+  "publisher": "Skytrace Studios",
   "installerName": "Sky Vanguard-Setup-1.2.2.exe",
   "installerPath": "artifacts/1.2.2/Sky Vanguard-Setup-1.2.2.exe",
   "installerUrl": "https://github.com/iplayxbox65-ship-it/Sky-Vanguard-Releases/raw/main/artifacts/1.2.2/Sky%20Vanguard-Setup-1.2.2.exe",
@@ -8,7 +10,7 @@
   "size": 171033593,
   "publishedAt": "2026-05-14T23:56:28-07:00",
   "notes": [
-    "Initial public release repository setup for Sky Vanguard Windows builds.",
-    "Current installer version is 1.2.2."
+    "Official Skytrace Studios Windows release.",
+    "Updated installer and publisher details."
   ]
 }

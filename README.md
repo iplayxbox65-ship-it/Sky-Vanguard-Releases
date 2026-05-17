@@ -1,24 +1,22 @@
 # Sky Vanguard Releases
 
-Public distribution repository for Sky Vanguard player downloads and updater metadata.
+Official public release repository for Sky Vanguard, published by Skytrace Studios.
 
-This repository is intended to contain:
+This repository contains Windows installers, updater metadata, and release notes for official player-facing builds.
+
+Private source code and development tooling remain in the separate repository `Sky-Vanguard-DEV`.
+
+## Repository contents
 
 - Windows installer artifacts
 - updater manifest files
 - public release notes
 
-Private source code and development files live in the separate repository `Sky-Vanguard-DEV`.
+## Release layout
 
-## Current layout
-
-- `artifacts/<version>/` contains installer assets for a released version
+- `artifacts/<version>/` contains installer assets for each published version
 - `latest.json` describes the newest version for updater checks
 
-## Current version
+## Version info
 
-- `1.2.2`
-
-## Notes
-
-The long-term updater flow can move installer binaries to GitHub Release assets if you want cleaner downloads later. For now, this repo is set up to hold the public installer files and release metadata in one place.
+Current release details live in `latest.json` to avoid duplicate version strings drifting out of sync.
