@@ -1,16 +1,16 @@
 {
-  "version": "1.2.3",
+  "version": "1.2.4",
   "productName": "Sky Vanguard",
   "publisher": "Skytrace Studios",
-  "installerName": "Sky Vanguard-Setup-1.2.3.exe",
-  "installerPath": "artifacts/1.2.3/Sky Vanguard-Setup-1.2.3.exe",
-  "installerUrl": "https://github.com/iplayxbox65-ship-it/Sky-Vanguard-Releases/raw/main/artifacts/1.2.3/Sky%20Vanguard-Setup-1.2.3.exe",
-  "blockmapUrl": "https://github.com/iplayxbox65-ship-it/Sky-Vanguard-Releases/raw/main/artifacts/1.2.3/Sky%20Vanguard-Setup-1.2.3.exe.blockmap",
-  "sha256": "C3C16BC971FACAE3AC7C31D046FBDC22992CF1526340419887D41507F4F1D534",
-  "size": 171137465,
-  "publishedAt": "2026-05-17T06:11:28-07:00",
+  "installerName": "Sky Vanguard-Setup-1.2.4.exe",
+  "installerPath": "artifacts/1.2.4/Sky Vanguard-Setup-1.2.4.exe",
+  "installerUrl": "https://github.com/iplayxbox65-ship-it/Sky-Vanguard-Releases/raw/main/artifacts/1.2.4/Sky%20Vanguard-Setup-1.2.4.exe",
+  "blockmapUrl": "https://github.com/iplayxbox65-ship-it/Sky-Vanguard-Releases/raw/main/artifacts/1.2.4/Sky%20Vanguard-Setup-1.2.4.exe.blockmap",
+  "sha256": "ED28509EC1269A2C069206F3B79C73F93C80D140CE08D66042360337743C4D98",
+  "size": 171137139,
+  "publishedAt": "2026-05-17T06:17:43-07:00",
   "notes": [
-    "Skytrace Studios branding is now included throughout the desktop build.",
-    "Updated menu, splash, about, and release presentation while keeping Sky Vanguard as the primary identity."
+    "Fixed the desktop branding asset path so studio badges render correctly in the installed build.",
+    "Skytrace Studios branding remains subtle while Sky Vanguard stays the primary identity."
   ]
 }
