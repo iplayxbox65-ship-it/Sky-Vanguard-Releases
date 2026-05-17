@@ -1,0 +1,14 @@
+{
+  "version": "1.2.2",
+  "installerName": "Sky Vanguard-Setup-1.2.2.exe",
+  "installerPath": "artifacts/1.2.2/Sky Vanguard-Setup-1.2.2.exe",
+  "installerUrl": "https://github.com/iplayxbox65-ship-it/Sky-Vanguard-Releases/raw/main/artifacts/1.2.2/Sky%20Vanguard-Setup-1.2.2.exe",
+  "blockmapUrl": "https://github.com/iplayxbox65-ship-it/Sky-Vanguard-Releases/raw/main/artifacts/1.2.2/Sky%20Vanguard-Setup-1.2.2.exe.blockmap",
+  "sha256": "AD69D08FC993C4BCFF7E8217FCFE2CF9DDAFF46F116AC2D8BC4C49D5CE89031B",
+  "size": 171033593,
+  "publishedAt": "2026-05-14T23:56:28-07:00",
+  "notes": [
+    "Initial public release repository setup for Sky Vanguard Windows builds.",
+    "Current installer version is 1.2.2."
+  ]
+}
