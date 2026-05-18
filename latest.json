@@ -1,8 +1,8 @@
 {
-  "version": "1.2.7",
-  "installerName": "Sky Vanguard-Setup-1.2.7.exe",
-  "installerUrl": "https://media.githubusercontent.com/media/iplayxbox65-ship-it/Sky-Vanguard-Releases/main/artifacts/1.2.7/Sky%20Vanguard-Setup-1.2.7.exe",
-  "sha256": "176CCE8A40652762B3519DEE850C27E34AFF4B47ACD469097D32691A9F6598D4",
-  "publishedAt": "2026-05-18T11:57:46.946Z",
-  "notes": "Sky Vanguard 1.2.7 fixes the in-game update prompt and installer download for Git LFS release assets."
+  "version": "1.2.8",
+  "installerName": "Sky Vanguard-Setup-1.2.8.exe",
+  "installerUrl": "https://media.githubusercontent.com/media/iplayxbox65-ship-it/Sky-Vanguard-Releases/main/artifacts/1.2.8/Sky%20Vanguard-Setup-1.2.8.exe",
+  "sha256": "77ADFD6A2F432A927E74A52A21B61F18E1F58F5E38CF3468342FE744EB5C75C5",
+  "publishedAt": "2026-05-18T12:06:48.754Z",
+  "notes": "Sky Vanguard 1.2.8 is a quick test release to verify the built-in updater prompt and download flow."
 }
