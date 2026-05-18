@@ -1,16 +1,8 @@
 {
-  "version": "1.2.4",
-  "productName": "Sky Vanguard",
-  "publisher": "Skytrace Studios",
-  "installerName": "Sky Vanguard-Setup-1.2.4.exe",
-  "installerPath": "artifacts/1.2.4/Sky Vanguard-Setup-1.2.4.exe",
-  "installerUrl": "https://github.com/iplayxbox65-ship-it/Sky-Vanguard-Releases/raw/main/artifacts/1.2.4/Sky%20Vanguard-Setup-1.2.4.exe",
-  "blockmapUrl": "https://github.com/iplayxbox65-ship-it/Sky-Vanguard-Releases/raw/main/artifacts/1.2.4/Sky%20Vanguard-Setup-1.2.4.exe.blockmap",
-  "sha256": "ED28509EC1269A2C069206F3B79C73F93C80D140CE08D66042360337743C4D98",
-  "size": 171137139,
-  "publishedAt": "2026-05-17T06:17:43-07:00",
-  "notes": [
-    "Fixed the desktop branding asset path so studio badges render correctly in the installed build.",
-    "Skytrace Studios branding remains subtle while Sky Vanguard stays the primary identity."
-  ]
+  "version": "1.2.5",
+  "installerName": "Sky Vanguard-Setup-1.2.5.exe",
+  "installerUrl": "https://raw.githubusercontent.com/iplayxbox65-ship-it/Sky-Vanguard-Releases/main/artifacts/1.2.5/Sky%20Vanguard-Setup-1.2.5.exe",
+  "sha256": "D977B41842971425D0B984DDD138062F2ABE6DF494FC7F928A0EE14F95A26973",
+  "publishedAt": "2026-05-18T10:26:56.305Z",
+  "notes": "Sky Vanguard 1.2.5 adds startup update prompts, an in-match pause menu, persistent AI and human combat stats, and a richer debrief screen."
 }
