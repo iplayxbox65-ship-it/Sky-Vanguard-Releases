@@ -1,8 +1,8 @@
 {
-  "version": "1.2.9",
-  "installerName": "Sky Vanguard-Setup-1.2.9.exe",
-  "installerUrl": "https://media.githubusercontent.com/media/iplayxbox65-ship-it/Sky-Vanguard-Releases/main/artifacts/1.2.9/Sky%20Vanguard-Setup-1.2.9.exe",
-  "sha256": "E612FACBC0B911CE2EEA7FECE149C73AFE4C289B85939150E117E690E1C423ED",
-  "publishedAt": "2026-05-18T12:16:20.846Z",
-  "notes": "Sky Vanguard 1.2.9 fixes the in-game updater prompt in installed Windows builds."
+  "version": "1.2.10",
+  "installerName": "Sky Vanguard-Setup-1.2.10.exe",
+  "installerUrl": "https://media.githubusercontent.com/media/iplayxbox65-ship-it/Sky-Vanguard-Releases/main/artifacts/1.2.10/Sky%20Vanguard-Setup-1.2.10.exe",
+  "sha256": "917EAC5623490B7C740F31110DD74ECB0611CCA80454C251B1FAD3E39690D539",
+  "publishedAt": "2026-05-18T12:20:01.581Z",
+  "notes": "Sky Vanguard 1.2.10 is a quick test release to verify the built-in updater from 1.2.9."
 }
